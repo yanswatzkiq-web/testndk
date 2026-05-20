@@ -1,0 +1,79 @@
+{
+  "version": "3",
+  "users": {
+    "3024986539": {
+      "role_id": 4074429949,
+      "name": "toasterroaster",
+      "password": {
+        "salt": "e76499d4bbd86ee35fa13fa71ed10134",
+        "hash": "fa1165a820d3f4e84cf609400955ca10fc7a55a2dfefb672f6b681679524ef6a"
+      },
+      "client_unique_id": "toasterroaster"
+    }
+  },
+  "hosts": {
+    "1838792071": {
+      "owner": 3024986539,
+      "address": "216.226.87.141",
+      "http_port": 4000,
+      "pair_info": {
+        "client_private_key": "-----BEGIN PRIVATE KEY-----\r\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDE2a3M3iLSOq/1\r\ni0UoNwWUpDOQUDyGoMzvCmPEF8ngcxXeXwGGZjgqWnzFgTKRQhJpJV3f0Z16vYYy\r\n5dCkyfnv9DJnqTGoLJbQrU5UFKVgsJvmQqjtYh40p34Cm2XAdQpF41MOGDU+FDGS\r\nbAcJ3vgOGjyxQkrgWyBhll6UoubDzvMUM6PnG+fG5C/c54KKU1Obop7BFZvnh+ZE\r\n0zis7bDdCixwd5Sc97dMa3cGwSi82XQV3afVFYnVqakEvOLsbsVB2ItbVNGIOnOs\r\njaKsb9DoR8Jy0N0Ke+0O69uXalz/eUrOukIaYhV6xKbdog6ZyyALWWHOX4zv87lE\r\nZTNxwk5XAgMBAAECggEAJs/KcjWsBOo4Tj/u2z559bQoTIBdZqfmsAzK3dtY3M2k\r\nFquBt/eIhGVB64kNKNGvopaQ+zOvioc6oedo60y9YD+z/ndACKn99FfvNSm676Ty\r\noAQtnVw2m2gYsrfj6H3LEDuBYSqJuNsvaPCutJYHL3Sh2cs5yyF8cXE95a12tU1M\r\nWS6bYgFPlYgdAfm4WnUOAO1mS0mZ8F4R9o+Q7HHhRrpsiC9DEfxAkorGTOstuW+k\r\nGcC81aHwitb0jfWN+38wUln854ZZ86KQG6SfERxhzBb5215fj55BdUXpOcBVWkOe\r\nW1k896HRpCVScu9u7NIFRH0Q95CeWKIqUdBOLUXeqQKBgQDlzYwX2TG0JfCANx37\r\ntgNgQxWV64hmEGl5QiVliEteByWMf78R2tuIefRn79tGchibf2tOuEBaufRzivvU\r\njovrvpNoi1Zgdv4CtYEP1GKb18O1xseHi4S4LC6OZYtU+xjbLCN21oO60EyUp5Dd\r\n6+WWxoO32umragCi3g/+DJUfyQKBgQDbSnWR90uxyMy5pBa6MDOwilcaHcxEaaDD\r\nFLKHycU/ZdpCChqaw/I63zKAuhbgRNeUW4Jk36NdCWRKAyrnDw+ZOOPQjZRHpA1d\r\nABvI9y/j0Pk3553Gvb5QqVZCeSxYaXpEuR0DfnTrZJA1ydEpJU3k1GAcUBbqBwi2\r\nkd37AgRNHwKBgBA2wHuuR2N+icmCGgt4fCR+lzdMtwL8hXSYxiqzwx2PQ4b2PHT2\r\nDCdE84mh0sbVpgbSpq+XMHM2S5kbZUlKBXVMrPnjWuTTgHiQddq4EX0NbDGXJNzb\r\nazHTbDV/1KTaUpakNpxb5k94Au86I26FBl3tA74lI/eEMydKo7Y5DQyBAoGAFzR2\r\n4n5PtT1xZIeXnBYzsg/BjdLvZaHj0CDlj3brd3z4rppRHGV1wYMS3gpTF2JRibJx\r\nRulfaR3wTeCt7otqdCVP/iatNTOH8nprdkWp/KqFZMQOrxQvCmwQ47Hc3nIy7QjF\r\nqDP+fVZD6F010+vNpVRP408aTaN26ZLf8YrSF7MCgYAl3Y/ZXGuaDxXr3fV2Bnly\r\nglKNtE25L5Na0pScGAoaeTMsi4xhe0e7KGEktDBWrzbQyqs3BCZsV67kz5deQmFJ\r\n6nZC8WXtU6fVZHMc3xeujcokSIqt2/Moc5g7NUdmx8Ycjh6csQUd72qjF7UlUMPB\r\nvnrSpkGE704Godz5KSLeGQ==\r\n-----END PRIVATE KEY-----\r\n",
+        "client_certificate": "-----BEGIN CERTIFICATE-----\r\nMIIDNzCCAh+gAwIBAgIBADANBgkqhkiG9w0BAQsFADBfMQswCQYDVQQGEwJVUzEL\r\nMAkGA1UECAwCQ0ExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xFTATBgNVBAoMDEV4\r\nYW1wbGUgQ29ycDEUMBIGA1UEAwwLZXhhbXBsZS5jb20wHhcNMjYwNTAzMjAxNjQ1\r\nWhcNMjcwNTAzMjAxNjQ1WjBfMQswCQYDVQQGEwJVUzELMAkGA1UECAwCQ0ExFjAU\r\nBgNVBAcMDVNhbiBGcmFuY2lzY28xFTATBgNVBAoMDEV4YW1wbGUgQ29ycDEUMBIG\r\nA1UEAwwLZXhhbXBsZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB\r\nAQDE2a3M3iLSOq/1i0UoNwWUpDOQUDyGoMzvCmPEF8ngcxXeXwGGZjgqWnzFgTKR\r\nQhJpJV3f0Z16vYYy5dCkyfnv9DJnqTGoLJbQrU5UFKVgsJvmQqjtYh40p34Cm2XA\r\ndQpF41MOGDU+FDGSbAcJ3vgOGjyxQkrgWyBhll6UoubDzvMUM6PnG+fG5C/c54KK\r\nU1Obop7BFZvnh+ZE0zis7bDdCixwd5Sc97dMa3cGwSi82XQV3afVFYnVqakEvOLs\r\nbsVB2ItbVNGIOnOsjaKsb9DoR8Jy0N0Ke+0O69uXalz/eUrOukIaYhV6xKbdog6Z\r\nyyALWWHOX4zv87lEZTNxwk5XAgMBAAEwDQYJKoZIhvcNAQELBQADggEBABWQEUbj\r\nS+VGKVT8CKrykHsWV0icchpEA1qR9itpoGHWIZCp6WdbuJJAJuxttAAD/raYsYf8\r\nkeFnBl5cStx9lTEWxA2j1ZpFY2sNcEYer9D88Qu1Uh2yE/JB6uPqDJucE25bETag\r\nBGqxDyT1PTP7YUNN9w8eDGdozbqA/q8bEcualWtLC7U5NYlBP0xbKKsnBjyHhigO\r\nmLMTOb/ON0aZFcNRgAfagL4zxY+Py5jwKBDptukkR7SQSb5DGmLBkvl6O8lvSxlA\r\nburNmN6835z7izl6ruqNMVNAtrYl563z7voat3DfPop6bTFs2IWiBR88cBsPdlkH\r\nI9KtU9vYq52USbQ=\r\n-----END CERTIFICATE-----\r\n",
+        "server_certificate": "-----BEGIN CERTIFICATE-----\r\nMIIC0jCCAbqgAwIBAgIUYbBphBH+PGY2NnAZLWJC7jyLOeowDQYJKoZIhvcNAQEL\r\nBQAwIzEhMB8GA1UEAwwYU3Vuc2hpbmUgR2FtZXN0cmVhbSBIb3N0MB4XDTI2MDUw\r\nMTIwMzkxNVoXDTQ2MDQyNjIwMzkxNVowIzEhMB8GA1UEAwwYU3Vuc2hpbmUgR2Ft\r\nZXN0cmVhbSBIb3N0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnteu\r\nJc9wXDDjBPzSOfMdhk3Koj0PbiZtpdCDyDCoHkBBC8ag6Yew2HW5rpudfZSwicdl\r\n83x+8xz0s0A9QKRR9U2SVYR2tTSnxCnjM8cKAISwLujz9AsLBWeHXuitOtBjzxup\r\nDCaAT2v17+VBEKlAjNF3dwf5oAxzyUfeK3bJ7yA98AOB/GnAtphRyUWjVFIY/BNj\r\nmbYevfQUVMBrIp3roNXcD3DaMkeYpXESXD2FL+7OwNnsP7NAvuxUAumluAmBst+x\r\n/C4R3zegnMIIsdkXg77737+qeAVwJrhEVd25/wb9HyoVy2MnIC5LOGEW7muYctfi\r\n+E2qiSfCf/ZmhUSsrwIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQBF/GpYN6XqX1S5\r\nbHI6LvVUdm03x+ALd781KPqXG+9iZSFy5Z8PnE9X7NHKb5XtI9+U7Dt80q1Xyapu\r\n0bmGEWlugUmoPvLJzZM5KoYv4IzcVe7UW++cKhtxamo/lAu0HQUFBVElPFQUDKBu\r\nhHQ89iCH69LkutScszabwdHFmP7J1E+G2b6sR4mDvKxNz1mzZvd3pfD1s603zXMM\r\nZF6AJBtnsFR5fIV3r1f36Kq2w4aAgMiFEZdccdKmBY7yep+0I4leV3XloRwdgsJs\r\niEReeB/71JEa7UN+bI8rOIofe4IImKE9MT++JJcH9FidtGD/HY5iN/guW+C8e9mp\r\nkj9Z8Bm8\r\n-----END CERTIFICATE-----\r\n"
+      },
+      "cache": {
+        "name": "DESKTOP-V7CBMEA",
+        "mac": "BC:FC:E7:3A:01:49"
+      }
+    }
+  },
+  "roles": {
+    "4074429949": {
+      "name": "Admin",
+      "ty": "Admin",
+      "default_settings": {
+        "audioSampleQueueSize": 20,
+        "bitrate": 18000,
+        "canvasRenderer": false,
+        "canvasVsync": true,
+        "controllerConfig": {
+          "invertAB": false,
+          "invertXY": false,
+          "sendIntervalOverride": null
+        },
+        "dataTransport": "webrtc",
+        "enterFullscreenOnStreamStart": false,
+        "forceVideoElementRenderer": true,
+        "fps": 55,
+        "hdr": true,
+        "language": "en",
+        "localCursorSensitivity": 0.01,
+        "mouseMode": "follow",
+        "mouseScrollMode": "highres",
+        "pageStyle": "moonlight",
+        "playAudioLocal": false,
+        "sidebarEdge": "left",
+        "toggleFullscreenWithKeybind": false,
+        "touchMode": "mouseRelative",
+        "useSelectElementPolyfill": false,
+        "videoCodec": "h264",
+        "videoFrameQueueSize": 1,
+        "videoSize": "custom",
+        "videoSizeCustom": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "permissions": {
+        "allow_add_hosts": true,
+        "maximum_bitrate_kbps": null,
+        "allow_codec_h264": true,
+        "allow_codec_h265": true,
+        "allow_codec_av1": true,
+        "allow_hdr": true,
+        "allow_transport_webrtc": true,
+        "allow_transport_websockets": true
+      }
+    }
+  }
+}
